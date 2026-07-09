@@ -52,7 +52,9 @@ A properly built 6-month curriculum beats a rushed 30-day bootcamp every time. R
 
 ## Tech Stack
 
-Python | NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | SQL | Statistics
+## Tech Stack
+
+Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-Learn · SQL · Statistics · Deep Learning · NLP · GenAI (LangChain, RAG)
 
 ---
 
@@ -68,7 +70,7 @@ If this repository saves you even a few hours of learning time, consider subscri
 
 For questions, collaborations, or corrections:
 - **YouTube:** [Datascience ki Baatein](https://www.youtube.com/@datasciencekibaatein)
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [LinkedIn URL](https://www.linkedin.com/in/dhruv6397/)
 
 ---
 
