@@ -1,61 +1,75 @@
-# 📊 Data Science Learning Journey
+# Data Science Learning Path
 
-Welcome to my central hub for Data Science! This repository is a curated collection of my learning path, featuring structured notes, hands-on projects, and essential resources for anyone mastering the world of data.
+A structured repository documenting my journey through Data Science — from Python fundamentals to Machine Learning. All materials are organized to support both my learning and anyone following a similar path.
 
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Data Science Banner">
+  <img src="banner.jpg" width="100%" alt="Data Science Learning Path">
 </p>
 
 ---
 
-### 🎥 Stay Connected
-I share deep dives into complex concepts and tutorials on my YouTube channel.
-👉 **[Data Science Ki Baatein](https://www.youtube.com/@datasciencekibaatein)** — *Subscribe to learn with me!*
+## About This Repository
+
+This repository serves as the working reference for my Data Science curriculum, currently being taught on my YouTube channel [Datascience ki Baatein](https://www.youtube.com/@datasciencekibaatein) — where I explain concepts in Hindi for absolute beginners.
+
+Everything here is production-quality material, not throwaway notes. If you find a project, notebook, or explanation useful — take it, learn from it, build on it.
 
 ---
 
-## 🚀 Repository Overview
+## Repository Structure
 
-This project is organized into dedicated sections to make navigation easy for learners:
+**`/python`** — Complete Python foundation series
+Variables, data structures, control flow, functions, file handling, exception handling, modules & packages. Each topic includes a Jupyter notebook and video reference.
 
-* **📚 Batch-wise Notes:** Organized documentation of my daily/weekly learning progress.
-* **💡 Concepts & Theory:** Simplified explanations of Statistics, Linear Algebra, and ML algorithms.
-* **💻 Practical Examples:** Jupyter Notebooks featuring real-world datasets and code implementations.
-* **📂 Study Resources:** Hand-picked cheat sheets, books, and roadmap guides.
+**`/projects`** — Portfolio-quality projects
+End-to-end implementations covering multiple concepts. Currently includes the Student Marks Management System (Python capstone) with modular architecture.
 
----
+**`/numpy-pandas`** *(coming soon)*
+Data manipulation and analysis with NumPy and Pandas — the working toolkit of every Data Scientist.
 
-## 🛠 Tech Stack & Tools
+**`/machine-learning`** *(coming soon)*
+Supervised and unsupervised learning algorithms, with mathematical intuition and scikit-learn implementations.
 
-I use a variety of industry-standard tools to analyze data and build predictive models:
-
-### 🐍 Programming & Core Libraries
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📊 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-
-### 🤖 Machine Learning & Databases
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=mathworks&logoColor=white)
+**`/resources`** — Curated references
+Cheat sheets, roadmaps, and reading lists I've personally found useful. Everything here is vetted, not scraped from Google.
 
 ---
 
-## 🤝 Contribution & Feedback
+## Learning Philosophy
 
-Whether you are a beginner or an expert, I’d love to hear your thoughts!
-- **Star this repo** if you find the resources helpful.
-- **Open an issue** if you find a bug or have a suggestion.
-- **Fork it** to start your own learning journey based on these notes.
+I believe in three things when it comes to teaching Data Science:
+
+**1. Foundation before frameworks.**
+You cannot skip Python and jump to LangChain. The industry hires Data Scientists who understand systems — not people who prompt-engineer their way through problems.
+
+**2. Language matters.**
+Hindi-speaking learners deserve quality content in the language they think in. Translation isn't a "downgrade" — it's a bridge to underserved audiences.
+
+**3. Depth over speed.**
+A properly built 6-month curriculum beats a rushed 30-day bootcamp every time. Real skills compound.
 
 ---
 
-<p align="center">
-  <b>Happy Learning! 🚀</b><br>
-  Made with ❤️ for the Data Science Community
-</p>
+## Tech Stack
+
+Python | NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | SQL | Statistics
+
+---
+
+## For Learners
+
+If you're following along with the YouTube series, videos and notebooks are aligned. If you want to contribute — either through corrections, additional examples, or suggestions — open an issue or send a pull request.
+
+If this repository saves you even a few hours of learning time, consider subscribing to the [YouTube channel](https://www.youtube.com/@datasciencekibaatein). That's the fuel that keeps this work going.
+
+---
+
+## Contact
+
+For questions, collaborations, or corrections:
+- **YouTube:** [Datascience ki Baatein](https://www.youtube.com/@datasciencekibaatein)
+- **LinkedIn:** [Your LinkedIn URL]
+
+---
+
+*Currently teaching Python fundamentals. NumPy and Pandas begin next.*
