@@ -3,7 +3,7 @@
 A structured repository documenting my journey through Data Science — from Python fundamentals to Machine Learning. All materials are organized to support both my learning and anyone following a similar path.
 
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Data Science Learning Path">
+  <img src="banner.png" width="100%" alt="Data Science Learning Path">
 </p>
 
 ---
